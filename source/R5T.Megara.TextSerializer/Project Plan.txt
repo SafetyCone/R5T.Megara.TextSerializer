@@ -1,0 +1,4 @@
+R5T.Megara.TextSerializer - The standard aggregation library for an ITextSerializer<T>-based implementation of the IFileSerializer<T> service for the Megara project.
+
+Goals
+
