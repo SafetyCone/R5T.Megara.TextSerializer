@@ -4,4 +4,8 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1701;1702;1591;1573</NoWarn>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Megara.Stockholm.Standard\source\R5T.Megara.Stockholm.Standard\R5T.Megara.Stockholm.Standard.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Stockholm.Tiros.Standard\source\R5T.Stockholm.Tiros.Standard\R5T.Stockholm.Tiros.Standard.csproj" />
+  </ItemGroup>
 </Project>
