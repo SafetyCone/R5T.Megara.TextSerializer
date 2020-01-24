@@ -7,7 +7,7 @@ using R5T.Stockholm.Tiros.Standard;
 using R5T.Tiros;
 
 
-namespace R5T.Megara.TextSerializer.Code.Services.Extensions
+namespace R5T.Megara.TextSerializer
 {
     public static class IServiceCollectionExtensions
     {
